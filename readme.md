@@ -34,9 +34,7 @@ A responsive and clean landing page designed to showcase a Game Developer profil
 Game-developer/
 │
 ├── index.html
-├── style.css (or Tailwind setup)
-├── assets/
-│   └── images/
+├── images/
 └── README.md
 ```
 
